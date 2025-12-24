@@ -96,4 +96,4 @@ The analysis reveals that engagement in large online communities is highly uneve
 ## Files in This Repository
 - `hng_slack_analysis_ml.ipynb` – Full Python analysis, feature engineering, and modeling
 - `report/hng_slack_workspace_report.pdf` – Detailed analytical and modeling report
-- https://app.powerbi.com/view?r=eyJrIjoiOTFkZWQ3YTItZTdiYi00NGM0LWE2NTYtNzlkYWJiOGQ4YWU0IiwidCI6IjM5MTM5MTFjLWQ3NjUtNDg2Ny04Zjk5LTI3MzRlMWIyMDhlZSJ9 – Interactive Power BI dashboard documentation
+- (https://app.powerbi.com/view?r=eyJrIjoiOTFkZWQ3YTItZTdiYi00NGM0LWE2NTYtNzlkYWJiOGQ4YWU0IiwidCI6IjM5MTM5MTFjLWQ3NjUtNDg2Ny04Zjk5LTI3MzRlMWIyMDhlZSJ9) – Interactive Power BI dashboard documentation
